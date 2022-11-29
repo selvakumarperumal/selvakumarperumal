@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning/Computer Vision
 - 🌱 I’m currently learning NLP
 - 📫 https://www.linkedin.com/in/selvakumarperumal
-- KAGGLe: https://www.kaggle.com/selvakumarperumal
+- KAGGLE: https://www.kaggle.com/selvakumarperumal
 
 <!---
 selvakumarperumal/selvakumarperumal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
