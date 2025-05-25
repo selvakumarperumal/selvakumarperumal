@@ -17,12 +17,12 @@ Hi there! 👋 I'm Selvakumar, a passionate and solutions-focused computer scien
 
  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  ![XGBoost](https://img.shields.io/badge/-XGBoost-EC6B2C?logo=data:image/svg+xml;base64,PHN2Zy8+) 
  ![MLflow](https://img.shields.io/badge/-MLflow-0077B6?logo=mlflow&logoColor=white)  ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface&logoColor=black)  ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?logo=spacy&logoColor=white) 
- ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) 
+ ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  ![Polars](https://img.shields.io/badge/-Polars-5A3FC0?logo=polars&logoColor=white) 
 
 ### 🗃️ Databases & ORM
 
  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)  ![SQLModel](https://img.shields.io/badge/-SQLModel-1F4E79?logo=fastapi&logoColor=white) 
- ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-2C4B7D?logo=sqlalchemy&logoColor=white)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  ![Polars](https://img.shields.io/badge/-Polars-5A3FC0?logo=polars&logoColor=white) 
+ ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-2C4B7D?logo=sqlalchemy&logoColor=white)  
 
 ### 🧰 DevOps & Monitoring
 
