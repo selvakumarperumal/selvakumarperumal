@@ -1,4 +1,4 @@
-# 💻 Selvakumar Perumal | Backend Developer | AI Enthusiast
+# 💻 Selvakumar Perumal | ML/AI Developer
 
 Hi there! 👋 I'm Selvakumar, a passionate and solutions-focused computer science professional with deep interests in backend development, machine learning, and intelligent systems that solve real-world problems.
 
