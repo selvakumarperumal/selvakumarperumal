@@ -11,7 +11,7 @@ Hi there! 👋 I'm Selvakumar, a passionate and solutions-focused computer scien
 ### 🧠 Languages & Frameworks
 
  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) 
- ![Pydantic](https://img.shields.io/badge/-Pydantic-0081CB?logo=pydantic&logoColor=white)  ![LangChain](https://img.shields.io/badge/-LangChain-black?  logo=data: image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzYiIGhlaWdodD0iNzYiIHZpZXdCb3g9IjAgMCA3NiA3NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMu**c3ZnIiBmaWxsPSJub25lIj48L3N2Zz4=)  ![Langraph](https://img.shields.io/badge/-Langraph-6E40C9?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu**c3ZnIj48L3N2Zz4=) 
+ ![Pydantic](https://img.shields.io/badge/-Pydantic-0081CB?logo=pydantic&logoColor=white)  ![LangChain](https://img.shields.io/badge/-LangChain-black?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzYiIGhlaWdodD0iNzYiIHZpZXdCb3g9IjAgMCA3NiA3NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMu**c3ZnIiBmaWxsPSJub25lIj48L3N2Zz4=)  ![Langraph](https://img.shields.io/badge/-Langraph-6E40C9?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu**c3ZnIj48L3N2Zz4=) 
 
 ### 🤖 Machine Learning & AI
 
