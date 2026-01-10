@@ -31,14 +31,14 @@ Hi there! 👋 I'm Selvakumar, a passionate and solutions-focused computer scien
 
 ### 🧰 DevOps & Monitoring
 
- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?  logo=kubernetes&logoColor=white)  ![Helm](https://img.shields.io/badge/-Helm-0F1689?  logo=helm&logoColor=white) 
+ ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  ![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white) 
  ![Istio](https://img.shields.io/badge/-Istio-466BB0?logo=istio&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)  ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) 
  ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)  ![EFK Stack](https://img.shields.io/badge/-EFK%20Stack-005571?logo=elastic&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
 
 ### 🌐 Communication Protocols & APIs
 
- ![REST API](https://img.shields.io/badge/-REST--API-6DB33F?  logo=spring&logoColor=white)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)  ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=socketdotio&logoColor=white) 
- ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white)  ![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=eclipse-mosquitto&logoColor=white)  ![LiveKit](https://img.shields.io/badge/-LiveKit-00A3E0?logo=data: image/svg+xml;base64,PHN2Vy8+&logoColor=white) 
+ ![REST API](https://img.shields.io/badge/-REST--API-6DB33F?logo=spring&logoColor=white)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)  ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=socketdotio&logoColor=white) 
+ ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white)  ![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=eclipse-mosquitto&logoColor=white)  ![LiveKit](https://img.shields.io/badge/-LiveKit-00A3E0?logo=data:image/svg+xml;base64,PHN2Vy8+&logoColor=white) 
 
 ### 💻 OS & CLI
 
