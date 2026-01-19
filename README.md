@@ -4,7 +4,7 @@
 
 ### ML/AI Developer | Backend Specialist | AI Systems Architect
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Applications;Voice+Agents+%26+Intelligent+Chatbots;Agentic+AI+%26+Multi-Agent+Systems;GPU-Accelerated+Computing+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Applications;Voice+Agents+%26+Intelligent+Chatbots;Agentic+AI+%26+Multi-Agent+Systems;Backend+%26+ML+Engineering+Expert" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvakumarperumal)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/selvakumarperumal)
@@ -31,7 +31,7 @@ class MLEngineer:
             "Production-Ready AI Applications",
             "Voice Agents & Intelligent Chatbots",
             "Agentic AI & Multi-Agent Systems",
-            "GPU-Accelerated Computing (CUDA, cuDF, cuML)"
+            "Backend & ML Engineering"
         ]
     
     def say_hi(self):
@@ -192,7 +192,7 @@ me.say_hi()
 - 📚 **Real-time RAG Pipelines** with Haystack & LangChain
 - ⚙️ **Scalable MLOps Workflows** using GitHub Actions & Terraform
 - 🐳 **Containerized AI Services** on Kubernetes with Helm & Istio
-- 🌐 **GPU-Accelerated Computing** for large-scale signal processing
+- 🔧 **Robust Backend Systems** with FastAPI & PostgreSQL
 
 </td>
 </tr>
