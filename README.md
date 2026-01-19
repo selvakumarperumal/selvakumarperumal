@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=Selvakumar%20Perumal&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=ML/AI%20Developer%20•%20Backend%20Specialist%20•%20AI%20Systems%20Architect&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:3B82F6,50:8B5CF6,100:EC4899&height=300&section=header&text=Selvakumar%20Perumal&fontSize=80&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=ML/AI%20Developer%20•%20AI%20Systems%20Architect&descSize=24&descAlignY=60" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Production+AI+Systems+%F0%9F%9A%80;Voice+Agents+%26+Multi-Agent+Orchestration+%F0%9F%A4%96;Real-time+RAG+%26+Knowledge+Graphs+%F0%9F%93%9A;Scalable+MLOps+Infrastructure+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=%F0%9F%9A%80+Building+Production+AI+Systems;%F0%9F%A4%96+Voice+Agents+%26+Multi-Agent+Orchestration;%F0%9F%93%9A+Real-time+RAG+%26+Knowledge+Graphs;%E2%9A%A1+Scalable+MLOps+Infrastructure" alt="Typing SVG" />
 </p>
 
 <!-- Social Badges -->
@@ -13,21 +13,15 @@
   <a href="https://www.linkedin.com/in/selvakumarperumal">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.kaggle.com/selvakumarperumal">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://zindi.africa/users/selvakumarperumal">
-    <img src="https://img.shields.io/badge/Zindi-F68D2E?style=for-the-badge&logoColor=white" alt="Zindi"/>
-  </a>
-  <a href="https://www.hackerrank.com/selvakumarp1">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
-  </a>
 </p>
 
 <br/>
 
 <!-- About Section -->
-<h2 align="center">🧑‍💻 About Me</h2>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px">
+  About Me
+</h2>
 
 <p align="center">
   <em>Passionate ML/AI developer specializing in intelligent systems, voice agents, and production-ready AI applications</em>
@@ -38,7 +32,7 @@ class Developer:
     def __init__(self):
         self.name = "Selvakumar Perumal"
         self.location = "Salem, Tamil Nadu, India 🇮🇳"
-        self.role = "ML/AI Developer & Backend Specialist"
+        self.role = "ML/AI Developer"
         
         self.expertise = {
             "ai_frameworks": ["LangChain", "LangGraph", "Pydantic-AI", "Haystack"],
@@ -58,7 +52,14 @@ class Developer:
 <br/>
 
 <!-- Tech Stack -->
-<h2 align="center">⚡ Tech Stack</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=2&section=header" width="100%"/>
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px">
+  Tech Stack
+</h2>
 
 <h3 align="center">🤖 AI & Machine Learning</h3>
 
@@ -68,21 +69,24 @@ class Developer:
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC6B2C?style=for-the-badge&logoColor=white" alt="XGBoost"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-6E40C9?style=for-the-badge&logoColor=white" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic-AI"/>
   <img src="https://img.shields.io/badge/Pydantic_Graph-7B68EE?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic-Graph"/>
   <img src="https://img.shields.io/badge/Haystack-0091D5?style=for-the-badge&logoColor=white" alt="Haystack"/>
 </p>
 
+<h3 align="center">📊 Data Science</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-EC6B2C?style=for-the-badge&logoColor=white" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Polars-5A3FC0?style=for-the-badge&logoColor=white" alt="Polars"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
 <h3 align="center">⚙️ Backend & Databases</h3>
@@ -107,16 +111,13 @@ class Developer:
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
   <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="Istio"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
   <img src="https://img.shields.io/badge/EFK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="EFK"/>
@@ -140,8 +141,15 @@ class Developer:
 
 <br/>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=2&section=header" width="100%"/>
+</div>
+
 <!-- Current Focus -->
-<h2 align="center">🎯 What I'm Building</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32px" height="32px">
+  What I'm Building
+</h2>
 
 <table align="center">
   <tr>
@@ -168,21 +176,24 @@ class Developer:
 
 <br/>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=2&section=header" width="100%"/>
+</div>
+
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px" height="32px">
+  GitHub Analytics
+</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=selvakumarperumal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=selvakumarperumal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumarperumal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=3B82F6&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=selvakumarperumal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=8B5CF6&text_color=c9d1d9&count_private=true&ring_color=EC4899" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumarperumal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </p>
 
 <br/>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EC4899,50:8B5CF6,100:3B82F6&height=150&section=footer&reversal=true" />
 </p>
