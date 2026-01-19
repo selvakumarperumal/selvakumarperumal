@@ -1,19 +1,8 @@
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║   ███████╗███████╗██╗     ██╗   ██╗ █████╗ ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗  ║
-║   ██╔════╝██╔════╝██║     ██║   ██║██╔══██╗██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗ ║
-║   ███████╗█████╗  ██║     ██║   ██║███████║█████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝ ║
-║   ╚════██║██╔══╝  ██║     ╚██╗ ██╔╝██╔══██║██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗ ║
-║   ███████║███████╗███████╗ ╚████╔╝ ██║  ██║██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║ ║
-║   ╚══════╝╚══════╝╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ║
-║                                                                               ║
-║                        ML/AI Developer | AI Systems Architect                ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
+# Selvakumar Perumal
+
+### ML/AI Developer | AI Systems Architect
 
 </div>
 
@@ -33,10 +22,10 @@
   "terminal": "zsh | bash",
   
   "current_sprint": {
-    "🎙️": "Building AI Voice Agents [LiveKit, WebRTC, Pydantic-AI]",
-    "🤖": "Multi-Agent Orchestration [LangGraph, Pydantic-Graph]",
-    "📚": "Real-time RAG Systems [Haystack, Vector DBs]",
-    "⚡": "Production MLOps [K8s, Terraform, AWS]"
+    "voice_agents": "Building AI Voice Agents [LiveKit, WebRTC, Pydantic-AI]",
+    "multi_agent": "Multi-Agent Orchestration [LangGraph, Pydantic-Graph]",
+    "rag_systems": "Real-time RAG Systems [Haystack, Vector DBs]",
+    "mlops": "Production MLOps [K8s, Terraform, AWS]"
   },
   
   "stack": {
@@ -58,10 +47,6 @@
 
 </div>
 
-<table align="center" width="95%">
-<tr>
-<td valign="top" width="33%">
-
 ### 🧠 AI/ML Core
 
 ```yaml
@@ -72,19 +57,16 @@ frameworks:
   - OpenCV
   
 agents:
-  - LangChain 🦜
+  - LangChain
   - LangGraph
   - Pydantic-AI
   - Pydantic-Graph
   - Haystack
   
-ml_libs:
+ml_libraries:
   - Scikit-learn
   - XGBoost
 ```
-
-</td>
-<td valign="top" width="33%">
 
 ### ⚡ Backend Stack
 
@@ -106,10 +88,7 @@ data_processing:
   - NumPy
 ```
 
-</td>
-<td valign="top" width="33%">
-
-### ☁️ Infrastructure
+### ☁️ Infrastructure & DevOps
 
 ```yaml
 containers:
@@ -132,31 +111,25 @@ ci_cd:
   - Git
 ```
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
 ### 🌐 Protocols & Communication
 
-```bash
-REST API | GraphQL | WebSocket | WebRTC | MQTT | LiveKit
+```yaml
+protocols:
+  - REST API
+  - GraphQL
+  - WebSocket
+  - WebRTC
+  - MQTT
+  - LiveKit
 ```
-
-</div>
-
-<div align="center">
 
 ### 💻 System Environment
 
-```bash
-OS: Linux 🐧 | Shell: Bash/Zsh | Terminal: Daily Driver
+```yaml
+operating_system: Linux
+shell: Bash | Zsh
+terminal: Daily Driver
 ```
-
-</div>
 
 <br/>
 
@@ -168,9 +141,7 @@ OS: Linux 🐧 | Shell: Bash/Zsh | Terminal: Daily Driver
 
 </div>
 
-<table align="center" width="90%">
-<tr>
-<td align="center" width="50%">
+### 🎙️ Voice AI Systems
 
 ```bash
 #!/bin/bash
@@ -180,12 +151,10 @@ PROJECT="Voice AI Systems"
 STACK=("LiveKit" "WebRTC" "Pydantic-AI")
 STATUS="🟢 Active Development"
 
-echo "Building real-time conversational AI"
-echo "with speech processing capabilities"
+echo "Building real-time conversational AI with speech processing capabilities"
 ```
 
-</td>
-<td align="center" width="50%">
+### 🤖 Multi-Agent Orchestration
 
 ```python
 # multi_agent.py
@@ -196,13 +165,10 @@ class MultiAgentSystem:
         self.status = "🟢 In Progress"
     
     def orchestrate(self):
-        return "Complex task automation"
+        return "Complex task automation and intelligent coordination"
 ```
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
+### 📚 RAG Pipeline Systems
 
 ```yaml
 # rag_pipeline.yml
@@ -213,13 +179,10 @@ stack:
   - LangChain
   - Vector Databases
 status: 🟢 Production Ready
-description: >
-  Knowledge retrieval and
-  generation systems
+description: Knowledge retrieval and generation systems
 ```
 
-</td>
-<td align="center" width="50%">
+### ⚡ MLOps Infrastructure
 
 ```dockerfile
 # mlops_infra.dockerfile
@@ -230,10 +193,6 @@ RUN install terraform helm istio
 ENV STATUS="🟢 Scaling"
 CMD ["deploy", "ml-services"]
 ```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -246,8 +205,8 @@ CMD ["deploy", "ml-services"]
 </div>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=selvakumarperumal&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumarperumal&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=selvakumarperumal&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumarperumal&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </p>
 
 <br/>
@@ -258,13 +217,11 @@ CMD ["deploy", "ml-services"]
 
 ## `$ connect --social`
 
-</div>
+<a href="https://www.linkedin.com/in/selvakumarperumal">
+  <img src="https://img.shields.io/badge/→_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/selvakumarperumal">
-    <img src="https://img.shields.io/badge/→_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+</div>
 
 <br/>
 
@@ -272,7 +229,7 @@ CMD ["deploy", "ml-services"]
 
 ```bash
 ╭─ selvakumar@github ~
-╰─$ echo "Building the future, one commit at a time" 
+╰─$ echo "Building the future, one commit at a time"
 ```
 
 </div>
