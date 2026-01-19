@@ -5,7 +5,7 @@
 
 # ⚡ Selvakumar Perumal
 
-[![Typing SVG](https://readme-typing-svg.demolab.comfont=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ML%2FAI+Developer;AI+Systems+Architect;Building+Voice+Agents+%26+RAG+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab. com? font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ML%2FAI+Developer;AI+Systems+Architect;Building+Voice+Agents+%26+RAG+Pipelines)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,13 +16,13 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2? style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvakumarperumal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvakumarperumal)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selvakumarperumal)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&section=header" width="60%" />
+<img src="https://capsule-render.vercel. app/api?type=rect&color=58A6FF&height=2&section=header" width="60%" />
 
 </div>
 
