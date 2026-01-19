@@ -1,21 +1,14 @@
 <div align="center">
     
 # Selvakumar Perumal
-    
-<br/>
 
 📍 **Salem, Tamil Nadu, India** 🇮🇳
 
 *Building AI-powered applications from prototype to production.*  
 *Specializing in voice agents, multi-agent systems, and real-time RAG pipelines.*
 
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvakumarperumal)
 &nbsp;&nbsp;
-<br/>
-
-<img src="https://capsule-render.vercel. app/api?type=rect&color=58A6FF&height=2&section=header" width="60%" />
 
 </div>
 
