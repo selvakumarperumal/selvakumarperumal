@@ -1,54 +1,242 @@
-# 💻 Selvakumar Perumal | ML/AI Developer
+<div align="center">
 
-Hi there! 👋 I'm Selvakumar, a solutions-focused computer science professional specializing in backend development, machine learning, and intelligent systems that solve real-world problems.
+# 👨‍💻 Selvakumar Perumal
 
-🔭 Currently building **production-ready AI applications** including **voice agents**, **intelligent chatbots**, and **agentic AI systems** using **FastAPI**, **PostgreSQL**, and **Python**. I work extensively with **GPU-accelerated computing** for large-scale signal processing and scientific computation using **CUDA**, **cuDF**, and **cuML**.
+### ML/AI Developer | Backend Specialist | AI Systems Architect
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Applications;Voice+Agents+%26+Intelligent+Chatbots;Agentic+AI+%26+Multi-Agent+Systems;GPU-Accelerated+Computing+Expert" alt="Typing SVG" />
 
-## 🚀 Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvakumarperumal)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/selvakumarperumal)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/selvakumarp1)
+[![Zindi](https://img.shields.io/badge/Zindi-F68D2E?style=for-the-badge&logoColor=white)](https://zindi.africa/users/selvakumarperumal)
 
-### 🧠 Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/-Pydantic-0081CB?logo=pydantic&logoColor=white)
-
-### 🤖 AI/ML & Data Science
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-EC6B2C?logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface&logoColor=black) ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?logo=spacy&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/-Polars-5A3FC0?logo=polars&logoColor=white)
-
-### 🔗 AI Frameworks & Tools
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-6E40C9?logoColor=white) ![Pydantic-AI](https://img.shields.io/badge/-Pydantic--AI-E92063?logo=pydantic&logoColor=white) ![Haystack](https://img.shields.io/badge/-Haystack-1C54DA?logoColor=white)
-
-### 🗃️ Databases & ORM
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![SQLModel](https://img.shields.io/badge/-SQLModel-1F4E79?logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-2C4B7D?logoColor=white)
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
-
-### 🧰 DevOps & Monitoring
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white) ![Istio](https://img.shields.io/badge/-Istio-466BB0?logo=istio&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![EFK Stack](https://img.shields.io/badge/-EFK%20Stack-005571?logo=elastic&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
-### 🌐 Communication Protocols & APIs
-![REST API](https://img.shields.io/badge/-REST-6DB33F?logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white) ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=socketdotio&logoColor=white) ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white) ![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=eclipse-mosquitto&logoColor=white) ![LiveKit](https://img.shields.io/badge/-LiveKit-00A3E0?logoColor=white)
-
-### 💻 Systems
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+</div>
 
 ---
 
-## 📈 What I'm Working On
+<div align="center">
 
-- Building **production-ready AI applications** with **agentic AI** architectures and **multi-agent systems**
-- Developing **AI-powered voice agents** and **intelligent chatbots** using **LangGraph**, **Pydantic-AI**, and **LiveKit**
-- Implementing real-time **RAG (Retrieval-Augmented Generation)** pipelines with **Haystack** and **LangChain**
-- Designing scalable **MLOps** workflows with **GitHub Actions** and **Terraform**
-- Deploying containerized AI services on **Kubernetes** with **Helm**, **Istio**, and **AWS**
-- Contributing to **open-source AI projects** on **Kaggle** and **Zindi**
+## 🚀 About Me
+
+</div>
+
+```python
+class MLEngineer:
+    def __init__(self):
+        self.name = "Selvakumar Perumal"
+        self.role = "ML/AI Developer"
+        self.location = "Salem, Tamil Nadu, India"
+        self.current_focus = [
+            "Production-Ready AI Applications",
+            "Voice Agents & Intelligent Chatbots",
+            "Agentic AI & Multi-Agent Systems",
+            "GPU-Accelerated Computing (CUDA, cuDF, cuML)"
+        ]
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together!")
+
+me = MLEngineer()
+me.say_hi()
+```
 
 ---
 
-## 🌐 Connect with Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvakumarperumal) [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/selvakumarperumal) [![Zindi](https://img.shields.io/badge/-Zindi-F68D2E?logoColor=white)](https://zindi.africa/users/selvakumarperumal) [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/selvakumarp1)
+## 🛠️ Tech Arsenal
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 💻 Core Languages & Frameworks
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,redis&perline=5" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLModel-1F4E79?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white" />
+</p>
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 AI/ML Ecosystem
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-6E40C9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Haystack-1C54DA?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 📊 Data Science & ML Libraries
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Polars-5A3FC0?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-EC6B2C?style=for-the-badge&logoColor=white" />
+</p>
+
+</td>
+<td align="center" width="50%">
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github&perline=5" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 📡 Communication & APIs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=graphql&perline=3" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
+<img src="https://img.shields.io/badge/LiveKit-00A3E0?style=for-the-badge&logoColor=white" />
+</p>
+
+</td>
+<td align="center" width="50%">
+
+### 📈 Monitoring & Observability
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=2" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/EFK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash&perline=2" />
+</p>
 
 ---
 
-⭐️ Thanks for visiting! Feel free to explore my repositories or reach out to collaborate.
+<div align="center">
+
+## 🎯 Current Focus
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Building
+
+- 🤖 **Production-Ready AI Applications** with agentic architectures
+- 🎙️ **AI Voice Agents** using LangGraph, Pydantic-AI & LiveKit
+- 💬 **Intelligent Chatbots** with advanced NLU capabilities
+- 🔄 **Multi-Agent Systems** for complex task orchestration
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Implementing
+
+- 📚 **Real-time RAG Pipelines** with Haystack & LangChain
+- ⚙️ **Scalable MLOps Workflows** using GitHub Actions & Terraform
+- 🐳 **Containerized AI Services** on Kubernetes with Helm & Istio
+- 🌐 **GPU-Accelerated Computing** for large-scale signal processing
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=selvakumarperumal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=selvakumarperumal&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumarperumal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Competitive Programming
+
+<img src="https://github-profile-trophy.vercel.app/?username=selvakumarperumal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Building AI systems that make a difference, one commit at a time"
+
+<img src="https://komarev.com/ghpvc/?username=selvakumarperumal&style=for-the-badge&color=38bdf8" alt="Profile Views" />
+
+**⭐ Star my repos if you find them useful!**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+</div>
