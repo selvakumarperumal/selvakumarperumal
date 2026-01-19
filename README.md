@@ -1,22 +1,28 @@
 <div align="center">
 
-# Selvakumar Perumal
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=120&section=header" width="100%" />
 
-### ML/AI Developer | AI Systems Architect
+# ⚡ Selvakumar Perumal
 
-📍 Salem, Tamil Nadu, India 🇮🇳
+[![Typing SVG](https://readme-typing-svg.demolab. com? font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ML%2FAI+Developer;AI+Systems+Architect;Building+Voice+Agents+%26+RAG+Pipelines)](https://git.io/typing-svg)
 
-Building AI-powered applications from prototype to production. 
-Specializing in voice agents, multi-agent systems, and real-time RAG pipelines.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvakumarperumal)
-</div>
+📍 **Salem, Tamil Nadu, India** 🇮🇳
 
----
+*Building AI-powered applications from prototype to production.*  
+*Specializing in voice agents, multi-agent systems, and real-time RAG pipelines.*
 
-<div align="center">
+<br/>
 
-## `$ cat whoami.py`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2? style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvakumarperumal)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selvakumarperumal)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&section=header" width="60%" />
 
 </div>
 
