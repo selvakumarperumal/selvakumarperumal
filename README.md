@@ -13,7 +13,7 @@
 
 <div align="center">
 
-## `$ whoami`
+## `$ cat whoami.py`
 
 </div>
 
