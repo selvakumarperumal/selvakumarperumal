@@ -8,7 +8,6 @@
 
 [![Location](https://img.shields.io/badge/📍_Salem,_Tamil_Nadu-India-orange? style=flat-square)](https://github.com/selvakumarperumal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/selvakumarperumal)
-
 </div>
 ---
 
