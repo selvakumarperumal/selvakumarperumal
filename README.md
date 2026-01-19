@@ -215,16 +215,6 @@ me.say_hi()
 
 <div align="center">
 
-## 🏆 Competitive Programming
-
-<img src="https://github-profile-trophy.vercel.app/?username=selvakumarperumal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 💡 "Building AI systems that make a difference, one commit at a time"
 
 <img src="https://komarev.com/ghpvc/?username=selvakumarperumal&style=for-the-badge&color=38bdf8" alt="Profile Views" />
