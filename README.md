@@ -1,206 +1,208 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=200&section=header&text=Selvakumar%20Perumal&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=ML/AI%20Developer%20|%20Backend%20Specialist%20|%20AI%20Systems%20Architect&descAlignY=55&descAlign=50" />
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm Selvakumar Perumal
+
+### 🚀 ML/AI Developer | 🎯 Backend Specialist | 🤖 AI Systems Architect
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=100&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Voice+Agents+%26+Chatbots+%F0%9F%8E%99%EF%B8%8F;Multi-Agent+Architectures+%F0%9F%94%84;Production-Ready+ML+Solutions+%E2%9A%A1" alt="Typing SVG" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/selvakumarperumal"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/selvakumarperumal"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://zindi.africa/users/selvakumarperumal"><img src="https://img.shields.io/badge/-Zindi-F68D2E?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/selvakumarp1"><img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
+</p>
 
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=800&lines=Building+Intelligent+AI+Systems;Voice+Agents+%26+Conversational+AI;Multi-Agent+Architectures;Production-Ready+ML+Solutions" alt="Typing SVG" /></a>
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML%20Engineering-38bdf8?style=flat-square&labelColor=1e293b" />
-  <img src="https://img.shields.io/badge/Specialization-Agentic%20AI%20Systems-818cf8?style=flat-square&labelColor=1e293b" />
-  <img src="https://img.shields.io/badge/Location-Salem%2C%20Tamil%20Nadu-06b6d4?style=flat-square&labelColor=1e293b" />
-</p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<br>
+### 👨‍💻 About Me
 
 ```python
-#!/usr/bin/env python3
-"""
-AI/ML Developer Profile
-"""
-
-class Developer:
+class AIEngineer:
     def __init__(self):
         self.name = "Selvakumar Perumal"
-        self.role = "ML/AI Developer & Backend Specialist"
-        self.expertise = {
-            "ai_ml": ["LangChain", "LangGraph", "Pydantic-AI", "PyTorch"],
-            "backend": ["FastAPI", "PostgreSQL", "Redis", "MongoDB"],
-            "infrastructure": ["Docker", "Kubernetes", "AWS", "Terraform"],
-            "focus_areas": [
-                "Voice Agents & Conversational AI",
-                "Agentic AI & Multi-Agent Systems", 
-                "RAG Pipelines & Knowledge Graphs",
-                "Production MLOps"
-            ]
+        self.location = "Salem, Tamil Nadu 🇮🇳"
+        self.role = "ML/AI Developer"
+        
+    def current_work(self):
+        return {
+            "🎙️ Voice Agents": ["LiveKit", "WebRTC"],
+            "🤖 AI Systems": ["LangGraph", "Pydantic-AI"],
+            "📚 RAG Pipelines": ["Haystack", "LangChain"],
+            "🐳 MLOps": ["Kubernetes", "Docker", "AWS"]
         }
     
-    def current_projects(self):
-        return [
-            "🎙️ AI Voice Agents with LiveKit",
-            "🤖 Multi-Agent Orchestration Systems",
-            "📚 Real-time RAG Applications",
-            "🔄 Scalable ML Infrastructure"
-        ]
-
-if __name__ == "__main__":
-    dev = Developer()
-    print("👋 Let's build intelligent systems together!")
+    def say_hi(self):
+        print("Let's build something amazing! 🚀")
 ```
 
-<br>
+<br clear="right"/>
 
 ---
 
-## 🎯 Technology Stack
-
-<details open>
-<summary><b>🧠 AI & Machine Learning</b></summary>
-<br>
-
 <div align="center">
 
-|  Framework & Libraries | Graph & Agents | Data Science |
-|:---:|:---:|:---:|
-| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21F?style=for-the-badge&logoColor=black) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) | ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-6E40C9?style=for-the-badge&logoColor=white) ![Pydantic-AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Pydantic-Graph](https://img.shields.io/badge/Pydantic_Graph-7B68EE?style=for-the-badge&logo=pydantic&logoColor=white) ![Haystack](https://img.shields.io/badge/Haystack-1C54DA?style=for-the-badge&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-5A3FC0?style=for-the-badge&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B2C?style=for-the-badge&logoColor=white) |
+## 🛠️ Tech Stack
 
 </div>
 
-</details>
+### 🤖 AI & Machine Learning
 
-<details open>
-<summary><b>⚙️ Backend & Infrastructure</b></summary>
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch" alt="AI Core" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-6E40C9?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic_Graph-7B68EE?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Haystack-0091D5?style=for-the-badge&logoColor=white" />
+</p>
 
-| Languages & Frameworks | Databases | Cloud & DevOps |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![SQLModel](https://img.shields.io/badge/SQLModel-DE3423?style=for-the-badge&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) |
+<p align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B2C?style=for-the-badge&logoColor=white" />
+</p>
 
-</div>
+### ⚙️ Backend & Data
 
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis" alt="Backend" />
+</p>
 
-<details open>
-<summary><b>🔧 Tools & Protocols</b></summary>
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLModel-DE3423?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-5A3FC0?style=for-the-badge&logoColor=white" />
+</p>
 
-<div align="center">
+### ☁️ DevOps & Cloud
 
-| DevOps & CI/CD | Monitoring | Communication |
-|:---:|:---:|:---:|
-| ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![EFK](https://img.shields.io/badge/EFK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white) | ![REST](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-00A3E0?style=for-the-badge&logoColor=white) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,github,git,linux,bash" alt="DevOps" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
 
-</details>
+### 🌐 Protocols & Communication
 
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiveKit-00D4FF?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 What I'm Building
+<div align="center">
 
-<table>
+## 🎯 Current Focus
+
+</div>
+
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-### 🎯 Current Projects
+### 🏗️ Building
 
-```yaml
-voice_agents:
-  stack: [LangGraph, Pydantic-AI, LiveKit]
-  focus: Real-time conversational AI
+🎙️ **AI Voice Agents**  
+*LiveKit • Pydantic-AI • LangGraph*
 
-multi_agent_systems:
-  stack: [LangGraph, Pydantic-Graph]
-  focus: Complex task orchestration
+🤖 **Multi-Agent Systems**  
+*LangGraph • Pydantic-Graph*
 
-rag_pipelines:
-  stack: [Haystack, LangChain, PostgreSQL]
-  focus: Knowledge retrieval & generation
-```
+📚 **RAG Applications**  
+*Haystack • LangChain • Vector DBs*
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
-### 💡 Core Competencies
+### ⚡ Implementing
 
-- 🤖 **Agentic AI Development**
-  - Multi-agent orchestration
-  - Tool-calling & function execution
-  
-- 🎙️ **Voice AI Solutions**
-  - Real-time speech processing
-  - Conversational interfaces
+🐳 **Containerized ML Services**  
+*Docker • Kubernetes • Helm*
 
-- 🏗️ **Production MLOps**
-  - Scalable deployments
-  - Kubernetes orchestration
+🔄 **MLOps Workflows**  
+*GitHub Actions • Terraform*
+
+☁️ **Cloud Infrastructure**  
+*AWS • Istio • Monitoring*
 
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=selvakumarperumal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=selvakumarperumal&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumarperumal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=selvakumarperumal&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=selvakumarperumal&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=selvakumarperumal&theme=react&hide_border=true&background=0D1117&stroke=38bdf8&ring=818cf8&fire=38bdf8&currStreakLabel=c9d1d9" />
 
-<br><br>
+## 🐍 Contribution Snake
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumarperumal&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&langs_count=10" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selvakumarperumal/selvakumarperumal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/selvakumarperumal/selvakumarperumal/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/selvakumarperumal/selvakumarperumal/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
-
-<br>
 
 ---
 
-## 🌐 Connect & Collaborate
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/selvakumarperumal">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.kaggle.com/selvakumarperumal">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-</a>
-<a href="https://zindi.africa/users/selvakumarperumal">
-  <img src="https://img.shields.io/badge/Zindi-F68D2E?style=for-the-badge&logoColor=white" alt="Zindi" />
-</a>
-<a href="https://www.hackerrank.com/selvakumarp1">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
+### 💬 Let's Connect!
 
-<br><br>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
-<img src="https://komarev.com/ghpvc/?username=selvakumarperumal&style=for-the-badge&color=38bdf8&labelColor=1e293b" />
+<br/><br/>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=selvakumarperumal&style=for-the-badge&color=3B82F6&labelColor=0D1117" alt="Profile Views" />
 
-<br>
+<br/><br/>
 
-<div align="center">
+**⭐ If you find my work interesting, consider starring my repositories!**
 
-### 💭 *"Building the future, one intelligent system at a time"*
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-⭐ **Star my repositories if you find them useful!**
-
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,100:38bdf8&height=120&section=footer" />
 </div>
