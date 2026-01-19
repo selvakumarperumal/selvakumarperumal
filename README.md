@@ -5,7 +5,7 @@
 
 # ⚡ Selvakumar Perumal
 
-[![Typing SVG](https://readme-typing-svg.demolab. com? font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ML%2FAI+Developer;AI+Systems+Architect;Building+Voice+Agents+%26+RAG+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.comfont=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ML%2FAI+Developer;AI+Systems+Architect;Building+Voice+Agents+%26+RAG+Pipelines)](https://git.io/typing-svg)
 
 <br/>
 
