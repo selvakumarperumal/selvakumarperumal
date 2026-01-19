@@ -7,8 +7,6 @@
 📍 Salem, Tamil Nadu, India 🇮🇳
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvakumarperumal)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selvakumarperumal)
-
 </div>
 
 ---
@@ -75,10 +73,6 @@ environment:
 <div align="center">
 
 ## `$ git stats`
-
-<br/>
-
-<img width="400" src="https://github-readme-stats.vercel.app/api? username=selvakumarperumal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
 
 <br/><br/>
 
