@@ -1,11 +1,5 @@
 <div align="center">
-
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=120&section=header" width="100%" />
-
-# ⚡ Selvakumar Perumal
-
-[![Typing SVG](https://readme-typing-svg.demolab. com? font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ML%2FAI+Developer;AI+Systems+Architect;Building+Voice+Agents+%26+RAG+Pipelines)](https://git.io/typing-svg)
+# Selvakumar Perumal
 <br/>
 
 📍 **Salem, Tamil Nadu, India** 🇮🇳
@@ -17,8 +11,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvakumarperumal)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selvakumarperumal)
-
 <br/>
 
 <img src="https://capsule-render.vercel. app/api?type=rect&color=58A6FF&height=2&section=header" width="60%" />
