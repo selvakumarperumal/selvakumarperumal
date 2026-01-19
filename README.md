@@ -69,8 +69,6 @@ environment:
 
 ## `$ git stats`
 
-<br/><br/>
-
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumarperumal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
 
 </div>
