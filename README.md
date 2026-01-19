@@ -11,23 +11,36 @@
 &nbsp;&nbsp;
 
 </div>
+
 ---
+
+<div align="center">
+
+## `$ cat whoami.py`
+
+</div>
+
 ```python
-class SelvakumarPerumal: 
+class SelvakumarPerumal:
+    """I don't just build AI.  I ship it."""
     
     def __init__(self):
-        self.location = "Salem, Tamil Nadu, India"
-        self.role     = "ML/AI Developer | AI Systems Architect"
-        self. shell    = ["zsh", "bash"]
+        self.role = "ML/AI Developer | AI Systems Architect"
         
     @property
-    def current_focus(self) -> dict:
+    def current_obsessions(self) -> dict:
         return {
-            "voice_agents": "AI Voice Agents → LiveKit, WebRTC, Pydantic-AI",
-            "multi_agent":  "Multi-Agent Systems → LangGraph, Pydantic-Graph",
-            "rag_systems":  "Real-time RAG → Haystack, Vector DBs",
-            "mlops":        "Production MLOps → K8s, Terraform, AWS"
+            "voice_agents": "Voice that thinks before it speaks",
+            "multi_agent":  "Agents that actually cooperate",
+            "rag_systems":  "No more hallucinations, only facts",
+            "mlops":        "Ship it, scale it, sleep"
         }
+    
+    def hire_me(self) -> bool:
+        return True  # Always returns True
+    
+    def say_hi(self) -> str:
+        return "Wanna build something mass together?"
 ```
 
 ---
@@ -60,7 +73,7 @@ protocols:              [REST, GraphQL, WebSocket, WebRTC, MQTT, LiveKit]
 
 environment:
   os:                   Linux
-  shell:                [bash, zsh]
+  shell:                [bash]
 ```
 
 ---
@@ -77,8 +90,6 @@ environment:
 
 <div align="center">
 
-**Building the future, one commit at a time** 🚀
-
-⭐ Star repos you like
+**Prototype start.   Production end.  Adhuku naduvula magic.** 
 
 </div>
