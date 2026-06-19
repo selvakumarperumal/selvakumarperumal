@@ -79,7 +79,7 @@ class SelvakumarPerumal:
 </tr>
 <tr>
 <td valign="top" width="50%">
-☁️ Infrastructure & Dev Tools
+☁️ Cloud Infrastructure & Dev Tools
 <br><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -89,8 +89,12 @@ class SelvakumarPerumal:
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Loki-005571?style=for-the-badge&logo=loki&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/KEDA-2F0651?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Karpenter-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
 
 </td>
 <td valign="top" width="50%">
