@@ -53,70 +53,66 @@ class SelvakumarPerumal:
 
 <br>
 
-## 🧩 `tech_stack.yaml`
+## 🧩 `TECH STACK`
 
 <table>
 <tr>
 <td valign="top" width="50%">
-
-**🧠 AI / ML**
-<br>
-<img src="https://skillicons.dev/icons?i=pytorch" height="32" title="PyTorch"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="32" title="OpenAI"/>
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="32" title="HuggingFace"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="32" title="Scikit-learn"/>
-<img src="https://skillicons.dev/icons?i=opencv" height="32" title="OpenCV"/>
-<img src="https://python.langchain.com/img/favicon.ico" height="32" title="LangChain"/>
-<img src="https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg" height="32" title="LangGraph"/>
-<img src="https://docs.pydantic.dev/latest/img/favicon.png" height="32" title="Pydantic-AI"/>
-<img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/icon.png" height="32" title="spaCy"/>
-<img src="https://raw.githubusercontent.com/dmlc/xgboost/master/doc/_static/xgboost.png" height="32" title="XGBoost"/>
+🧠 AI / ML
+<br><br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic--AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logoColor=white" />
 
 </td>
 <td valign="top" width="50%">
-
-**🚀 Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=fastapi" height="32" title="FastAPI"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="32" title="PostgreSQL"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="32" title="MongoDB"/>
-<img src="https://skillicons.dev/icons?i=redis" height="32" title="Redis"/>
-<img src="https://skillicons.dev/icons?i=python" height="32" title="Python"/>
-<img src="https://docs.pydantic.dev/latest/img/favicon.png" height="32" title="Pydantic"/>
-<img src="https://sqlmodel.tiangolo.com/img/favicon.png" height="32" title="SQLModel"/>
-<img src="https://www.sqlalchemy.org/img/sqla_logo.png" height="32" title="SQLAlchemy"/>
+🚀 Backend
+<br><br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLModel-0C4B33?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
-
-**☁️ Infrastructure**
-<br>
-<img src="https://skillicons.dev/icons?i=docker" height="32" title="Docker"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" height="32" title="Kubernetes"/>
-<img src="https://skillicons.dev/icons?i=aws" height="32" title="AWS"/>
-<img src="https://skillicons.dev/icons?i=terraform" height="32" title="Terraform"/>
-<img src="https://skillicons.dev/icons?i=grafana" height="32" title="Grafana"/>
-<img src="https://skillicons.dev/icons?i=githubactions" height="32" title="GitHub Actions"/>
-<img src="https://helm.sh/img/helm.svg" height="32" title="Helm"/>
-<img src="https://istio.io/latest/favicons/android-192x192.png" height="32" title="Istio"/>
-<img src="https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo_orange_circle.svg" height="32" title="Prometheus"/>
-<img src="https://www.elastic.co/favicon.ico" height="32" title="EFK Stack"/>
+☁️ Infrastructure & Dev Tools
+<br><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 </td>
 <td valign="top" width="50%">
-
-**🔌 Protocols & Env**
-<br>
-<img src="https://skillicons.dev/icons?i=graphql" height="32" title="GraphQL"/>
-<img src="https://skillicons.dev/icons?i=linux" height="32" title="Linux"/>
-<img src="https://skillicons.dev/icons?i=bash" height="32" title="bash"/>
-<img src="https://www.svgrepo.com/show/354238/postman-icon.svg" height="32" title="REST"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/WebSocket_logo.svg" height="32" title="WebSocket"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/WebRTC_logo.svg" height="32" title="WebRTC"/>
-<img src="https://mqtt.org/assets/img/mqtt-logo-white.svg" height="32" title="MQTT"/>
-<img src="https://avatars.githubusercontent.com/u/84444885?s=200&v=4" height="32" title="LiveKit"/>
+🔌 Protocols & Env
+<br><br>
+<img src="https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+<img src="https://img.shields.io/badge/LiveKit-FF3B30?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 
 </td>
 </tr>
