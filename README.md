@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer+%2F+AI+Systems+Architect;Shipping+prototypes+to+production;Voice+Agents+%C2%B7+Multi-Agent+%C2%B7+RAG&font=Fira%20Code&center=true&width=700&height=50&duration=2200&pause=900&color=00C9A7&vCenter=true&size=22" />
 
-📍 Salem, Tamil Nadu, India
-
 </div>
 
 <br>
