@@ -63,6 +63,15 @@ class SelvakumarPerumal:
 <img src="https://img.shields.io/badge/Pathway-000000?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Ragas-FF4B4B?style=flat-square&logoColor=white" />
 
+
+#### 🗄️ Vector DBs & Knowledge Graphs
+ \
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
+<img src="https://img.shields.io/badge/Chroma-FFA500?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-3B5998?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
+
 #### 🚀 Backend
 \
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
