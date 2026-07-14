@@ -46,7 +46,7 @@ class SelvakumarPerumal:
 
 ## 🧩 `TECH STACK`
 
-### 🧠 AI / ML
+#### 🧠 AI / ML
 \
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
@@ -63,7 +63,7 @@ class SelvakumarPerumal:
 <img src="https://img.shields.io/badge/Pathway-000000?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Ragas-FF4B4B?style=flat-square&logoColor=white" />
 
-### 🚀 Backend
+#### 🚀 Backend
 \
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
@@ -74,7 +74,7 @@ class SelvakumarPerumal:
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-### ☁️ Cloud Infrastructure & DevOps
+#### ☁️ Cloud Infrastructure & DevOps
 \
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -93,7 +93,7 @@ class SelvakumarPerumal:
 <img src="https://img.shields.io/badge/Kyverno-306CE8?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Falco-00AEC7?style=flat-square&logo=falco&logoColor=white" />
 
-## 🔌 Protocols & Env
+#### 🔌 Protocols & Env
 \
 <img src="https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
