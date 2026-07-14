@@ -46,147 +46,73 @@ class SelvakumarPerumal:
 
 ## 🧩 `TECH STACK`
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
 ### 🧠 AI / ML
-<sub>Models, agents & frameworks</sub>
-
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/XGBoost-006400?style=flat-square&logoColor=white" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Pydantic--AI-E92063?style=flat-square&logo=pydantic&logoColor=white" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Haystack-06D6A0?style=flat-square&logo=haystack&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Pathway-000000?style=flat-square&logoColor=white" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Ragas-FF4B4B?style=flat-square&logoColor=white" /></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-</td>
-<td valign="top" width="50%">
+\
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-006400?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+\
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic--AI-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/Haystack-06D6A0?style=flat-square&logo=haystack&logoColor=white" />
+<img src="https://img.shields.io/badge/Pathway-000000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Ragas-FF4B4B?style=flat-square&logoColor=white" />
 
 ### 🚀 Backend
-<sub>APIs, data & storage</sub>
-
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/SQLModel-0C4B33?style=flat-square&logoColor=white" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
-<td></td>
-</tr>
-</table>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+\
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLModel-0C4B33?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+\
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 ### ☁️ Cloud Infrastructure & DevOps
-<sub>Kubernetes-native platform engineering</sub>
 
 **Containers & Mesh**
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white" /></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white" />
 
 **Infrastructure as Code**
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
 
 **Autoscaling**
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Karpenter-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/KEDA-2F0651?style=flat-square&logo=kubernetes&logoColor=white" /></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Karpenter-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/KEDA-2F0651?style=flat-square&logo=kubernetes&logoColor=white" />
 
 **Observability**
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Loki-005571?style=flat-square&logo=loki&logoColor=white" /></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Loki-005571?style=flat-square&logo=loki&logoColor=white" />
 
 **GitOps & Security**
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Kyverno-306CE8?style=flat-square&logo=kubernetes&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Falco-00AEC7?style=flat-square&logo=falco&logoColor=white" /></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Kyverno-306CE8?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Falco-00AEC7?style=flat-square&logo=falco&logoColor=white" />
 
-</td>
-<td valign="top" width="50%">
-
-### 🔌 Protocols & Env
-<sub>Real-time comms & runtime</sub>
-
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/LiveKit-FF3B30?style=flat-square&logoColor=white" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /></td>
-<td></td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
+## 🔌 Protocols & Env
+\
+<img src="https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+<img src="https://img.shields.io/badge/LiveKit-FF3B30?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+\
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 <br>
 ## 🗺️ `deployment_pipeline.sh`
 
