@@ -101,6 +101,7 @@ class SelvakumarPerumal:
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Kyverno-306CE8?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Falco-00AEC7?style=flat-square&logo=falco&logoColor=white" />
+<img src="https://img.shields.io/badge/Stakator%20Reloader-2E8B57?style=flat-square&logoColor=white" />
 
 #### 🔌 Protocols & Env
 \
