@@ -130,21 +130,6 @@ $ ./ship.sh --stage=production
   ✓ it works at 2am, under load, without me watching
 ```
 
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=selvakumarperumal&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=selvakumarperumal&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumarperumal&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=selvakumarperumal&theme=react-dark&hide_border=true" />
-</p>
-
-<br>
-
 <div align="center">
 
 **Prototype start. Production end. Adhuku naduvula magic.** ✨
